@@ -15,8 +15,8 @@
 #### 프로젝트 구성(Project Composition)
 
 - Android app(Smart Kindergarten Controller), Lollipop v22
+  [link](https://github.com/lmy4080/SmartKindergartenController)
 - Raspberry Pi(Smart Kindergarten/IoT Sensors), v2 B+ Model
-  [link](https://github.com/lmy4080/SmartKindergarten)
 - Cloud Mqtt Server [link](mqtt.eclipse.org)
 
 #### 프로젝트 구성도(Project Architecture)
