@@ -54,3 +54,13 @@
 #### SmartKindergarten 활용 기술 스택(SmartKindergarten Used-Technical Stack Features)
 
  - Paho Mqtt Library(IoT Communication Protocol)
+ 
+ #### Developers
+
+- Android app
+  - 이민영 ([@Min Young Lee](https://github.com/lmy4080))
+- RaspberryPi(Internet of things)
+  - 이민영 ([@Min Young Lee](https://github.com/lmy4080))
+  - 조건화 ([]())
+- Smart Kindergarten 모형
+  - 이소연 ([]())
